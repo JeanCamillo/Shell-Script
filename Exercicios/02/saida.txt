@@ -1,0 +1,3 @@
+O primeiro número digitado foi: 7
+    O segundo número digitado foi: 7
+    A multiplicação entre eles é: 49
